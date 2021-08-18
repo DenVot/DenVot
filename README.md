@@ -46,6 +46,6 @@
   ---
   ## Stats
   
-  <img align="left" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=denvot&show_icons=true&locale=en&layout=compact&theme=dark" width="425"/>
+  <img align="left" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=denvot&show_icons=true&locale=en&layout=compact&theme=dark"/>
   <img align="right" alt="All stats" src="https://github-readme-stats.vercel.app/api?username=denvot&show_icons=true&locale=en&theme=dark" width="500"/>
 </p>
