@@ -5,7 +5,7 @@
   
   This is ME. My name is Denis and I live in Russia. I'm 16 years old. 
 
-  **About my programmer hobby:**
+  **About my programming hobby:**
 
   * My favorite programming language is C#.
   * My tools: 
