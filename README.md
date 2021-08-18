@@ -1,5 +1,8 @@
 <img align="right" src="https://user-images.githubusercontent.com/69825463/129925580-d779c7f1-c37e-4240-8db5-c28753955585.gif" alt="git profile" width="500"/>
 <p align="left">
+  <h1><i><b> Hello my friend <img src="https://media.giphy.com/media/kGFwP6QOoz5PcMxR5O/giphy.gif" alt="Would you like a coctail?" width="40"/> </b></i></h1>
+  
+  
   This is ME. My name is Denis and I live in Russia. I'm 16 years old. 
 
   **About my programmer hobby:**
