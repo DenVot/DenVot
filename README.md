@@ -44,7 +44,7 @@
   
   ---
   
-  <b>You can see my personal [website](https://denvot.github.io/AboutMe/) for more information about me</b>
+  <b>You can see my personal [website](https://denvot.xyz) for more information about me</b>
   
   ---
   ## Stats
