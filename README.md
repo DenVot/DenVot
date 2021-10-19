@@ -47,6 +47,10 @@
   <b>You can see my personal [website](https://denvot.xyz) for more information about me</b>
   
   ---
+  
+  <b>Email:</b> denis@denvot.xyz
+  
+  ---
   ## Stats
   
   <img align="left" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=denvot&show_icons=true&locale=en&layout=compact&theme=dark"/>
