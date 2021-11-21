@@ -2,8 +2,7 @@
 <p align="left">
   <h1><i><b> Hello my friend <img src="https://media.giphy.com/media/kGFwP6QOoz5PcMxR5O/giphy.gif" alt="Would you like a coctail?" width="40"/> </b></i></h1>
   
-  
-  This is ME. My name is Denis and I live in Russia. I'm 16 years old. 
+  There you can see my projects and skills.
 
   **About my programming hobby:**
 
@@ -24,9 +23,20 @@
   <code>
     <img alt="Rider" src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg" width="25"/>
   </code>
-
   <code>
-    <img alt="Rider" src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" width="25"/>
+    <img width="25" alt="CLion" src="https://resources.jetbrains.com/storage/products/company/brand/logos/CLion_icon.svg"/>
+  </code>
+  <code>
+    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/DataGrip_icon.svg" alt="DataGrip" width="25"/>
+  </code>  
+  <code>
+    <img width="21" alt="Android Studio" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/android-studio.svg"/>
+  </code>
+  <code>
+    <img width="25" alt="Postman" src="https://www.svgrepo.com/show/354202/postman-icon.svg"/>
+  </code>
+  <code>
+    <img width="25" alt="Tabby" src="https://tabby.sh/static/32bf32ff6c87e8d18932.svg"/>
   </code>
   
   * Frameworks, technologies:
@@ -35,6 +45,7 @@
     - .NET 5.0 `60%` (Good)    
     - jQuery `50%` (Normal)
     - CSS3 `45%` (Normal)
+    - C++ `?%` (Migrating from C#)
     - Entity Framework Core `40%` (Base level)   
     - ASP.NET Core `30%` (Base level)    
     - Node.JS `20%` (Studying)
