@@ -31,11 +31,16 @@
   
   * Frameworks, technologies:
   
-    - .NET 5.0 `50%` (Normal)
-    - ASP.NET Core `20%` (Base level)
-    - Entity Framework Core `30%` (Base level)
-    - Entity Framework Core `30%` (Base level)
-  
+    - HTML 5.0 `80%` (Very good)    
+    - .NET 5.0 `60%` (Good)    
+    - jQuery `50%` (Normal)
+    - CSS3 `45%` (Normal)
+    - Entity Framework Core `40%` (Base level)   
+    - ASP.NET Core `30%` (Base level)    
+    - Node.JS `20%` (Studying)
+    - Flutter `10%` (Studying)   
+    - T-SQL (Studying)
+    - React `3%` (Studying)     
   
   * Now I'm working on...
   [Telegram.NET](https://github.com/DenVot/Telegram.NET).
