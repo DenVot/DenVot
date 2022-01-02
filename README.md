@@ -55,9 +55,8 @@
     - T-SQL (Studying)
  
   * Now I'm working on...
-  [Telegram.NET](https://github.com/DenVot/Telegram.NET).
-  This is a new Telegram API wrapper for .NET 5.0.
-  Now it is under development and not all API functions are avaible.
+  MoneyCheck.
+  This is a new modern wallet to control your money
   
   ---
   
