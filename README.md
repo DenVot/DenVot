@@ -55,8 +55,8 @@
     - T-SQL (Studying)
  
   * Now I'm working on...
-  MoneyCheck.
-  This is a new modern wallet to control your money
+  me.ds.
+  This is a new modern Discord Bot
   
   ---
   
