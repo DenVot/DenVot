@@ -60,7 +60,7 @@
   
   ---
   
-  <b>You can see my personal [website](https://denvot.xyz) for more information about me</b>
+  <b>You can see my personal [website](https://denvot.github.io) for more information about me</b>
   
   ---
   
