@@ -23,3 +23,8 @@ If you want to talk to me about something (for example, about the weather in Mos
 <a href="mailto:denis@denvot.dev"><img width=32 src="https://user-images.githubusercontent.com/69825463/224512001-7141442f-4cbb-4b22-8d74-f84748a6148a.svg"/></a>
 
 If you want to see my very interesting website with my nickname, welcome: [denvot.dev](https://denvot.dev)
+
+---
+> *"If we continue to accumulate only power and not wisdom, we will surely destroy ourselves."*
+>
+> Carl Sagan
