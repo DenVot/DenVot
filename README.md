@@ -1,19 +1,6 @@
 ![DenVot v1.0.0](https://user-images.githubusercontent.com/69825463/224510957-db0fb460-acbf-4267-b93c-219bd2ef0a07.png)
 
-# Skills
-
-|Skill | Level|
-|------|------|
-ASP.NET Core | Good. Love it. .NET is in my heart 🧡
-React | Normal for basics tasks
-MySQL | OK, but not as good as other skills above. Want to learn this
-SQL Server | OK, but not as good as other skills above. Want to learn this
-Docker | Okay. I can create a Dockerfile or a docker-compose.yml and deploy it. What more you want from backend developer?
-GitHub Actions | OK
-Vue.JS | Worked with it
-Dart on Android | Worked with it more than two years ago
-
-# Some useless statistics
+**Main programming lanugage:** C#
 
 ![DenVot's GitHub stats](https://github-readme-stats.vercel.app/api?username=denvot&show_icons=true&theme=dark)
 
