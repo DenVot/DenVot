@@ -1,6 +1,10 @@
 ![DenVot v1.0.0](https://user-images.githubusercontent.com/69825463/224510957-db0fb460-acbf-4267-b93c-219bd2ef0a07.png)
 
-**Main programming lanugage:** C#
+<img width="150" style="border-radius: 15px;" align="right" src="https://github.com/DenVot/DenVot/assets/69825463/5594ee0e-0d1a-4077-85cb-bbf692a95c14" alt="HSSE MIPT Logo"/>
+
+<b>Main programming lanugage:</b> C# <br/>
+<b>Now working on:</b> HSSE Telegram Bot <br/>
+<b>Now I'm studiyng in:</b> Moscow Institute of Physics and Technology (MIPT)
 
 ![DenVot's GitHub stats](https://github-readme-stats.vercel.app/api?username=denvot&show_icons=true&theme=dark)
 
