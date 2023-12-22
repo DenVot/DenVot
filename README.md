@@ -6,7 +6,7 @@
 <b>Now working on:</b> HSSE Telegram Bot <br/>
 <b>Now I'm studiyng in:</b> Moscow Institute of Physics and Technology (MIPT)
 
-Technologies I've worked with:
+**Technologies I've worked with:**
 
 <ul>
   <li>ASP.NET Core</li>
