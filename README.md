@@ -6,25 +6,12 @@
 <b>Now working on:</b> HSSE Tech <br/>
 <b>Now I'm studiyng in:</b> Moscow Institute of Physics and Technology (MIPT)
 
-**Technologies I've worked with:**
-
-<ul>
-  <li>ASP.NET Core</li>
-  <li>EntityFramework Core</li>
-  <li>React.JS</li>
-  <li>Node.JS</li>
-  <li>MySQL</li>
-  <li>MsSQL</li>
-  <li>Docker</li>
-  <li>Vue.JS</li>
-</ul>
-
 ![DenVot's GitHub stats](https://github-readme-stats.vercel.app/api?username=denvot&show_icons=true&theme=dark)
 
 My contacts:
 
 <a href="https://t.me/denvot"><img width=32 src="https://user-images.githubusercontent.com/69825463/224511973-e6e98ad3-dda0-4fdc-9931-849cc908f646.svg"/></a>
-<a href="mailto:denis@denvot.dev"><img width=32 src="https://user-images.githubusercontent.com/69825463/224512001-7141442f-4cbb-4b22-8d74-f84748a6148a.svg"/></a>
+<a href="mailto:dv.voitenko@gmail.com"><img width=32 src="https://user-images.githubusercontent.com/69825463/224512001-7141442f-4cbb-4b22-8d74-f84748a6148a.svg"/></a>
 
 You can read some articles about C# on my [Habr](https://habr.com/ru/users/DenVot/)
 
