@@ -3,7 +3,7 @@
 <img width="150" style="border-radius: 15px;" align="right" src="https://github.com/DenVot/DenVot/assets/69825463/5594ee0e-0d1a-4077-85cb-bbf692a95c14" alt="HSSE MIPT Logo"/>
 
 <b>Main programming lanugage:</b> C# <br/>
-<b>Now working on:</b> HSSE Tech <br/>
+<b>Now working on:</b> MTS Digital <br/>
 <b>Now I'm studiyng in:</b> Moscow Institute of Physics and Technology (MIPT)
 
 ![DenVot's GitHub stats](https://github-readme-stats.vercel.app/api?username=denvot&show_icons=true&theme=dark)
